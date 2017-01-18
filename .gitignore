@@ -1,0 +1,10 @@
+build/*
+.gradle/*
+gradle/*
+.idea/*
+gradlew
+gradlew.bat
+settings.gradle
+token
+res
+owner
